@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1090503422905",
+    "project_id": "ifay-d3177",
+    "storage_bucket": "ifay-d3177.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090503422905:android:224cc6e678c7b1a53afc68",
+        "android_client_info": {
+          "package_name": "com.flutterflow.finwallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9IZ3UaNCnosjqsUTLd6hzABAQOLDSnQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
